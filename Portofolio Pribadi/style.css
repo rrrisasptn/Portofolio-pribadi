@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(205, 170, 238);
+}
+
+#Goals {
+  background-color: rgb(205, 170, 238);
+}
+
+section {
+  padding-top: 7rem;
+}
+
+footer {
+  background-color: rgb(179, 119, 235);
+}
